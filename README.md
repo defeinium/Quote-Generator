@@ -11,4 +11,4 @@ Forismatic random quote API
 
 # Live View
 
-[Live View](https://defeinium.github.io/quote-generator/ "Quote Generator")
+[LiveView](https://defeinium.github.io/quote-generator/ "Quote Generator")
