@@ -1,6 +1,6 @@
 # Quote Generator
 
-A quote generator by using random quote API (Forismatic Quote API) and be able to tweet it instantly!
+A quote generator by using random quote API (Forismatic Quote API) and tweet it instantly!
 
 # Build With
 
